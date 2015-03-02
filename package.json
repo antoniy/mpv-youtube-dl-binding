@@ -1,0 +1,34 @@
+{
+    "name": "mozilla-youtube-dl-binding", 
+    "license": "MIT", 
+    "author": "Antoniy Chonkov (https://github.com/antoniy/mozilla-youtube-dl-binding)", 
+    "version": "0.1.alpha1", 
+    "id": "jid1-FbM0WeHVXAWQ1A", 
+    "description": "Watch flash videos from various sites using native player (like mpv) and youtube-dl.",
+    
+    "icon": "data/icon_button.png",
+    
+    "preferences": [
+        {
+            "name": "player",
+            "title": "Native player location",
+            "description": "Specify native player executable full path",
+            "type": "string",
+            "value": "/usr/bin/mpv"
+        },
+        {
+            "name": "hotkey",
+            "title": "Hotkey",
+            "description": "Specify hotkey binding to start the player for current page",
+            "type": "string",
+            "value": "accel-alt-m"
+        },
+        {
+            "name": "params",
+            "title": "Additional player parameters",
+            "description": "Specify additional parameters to pass the native player when started. Leave empty if none are required.",
+            "type": "string",
+            "value": ""
+        }
+    ]
+}

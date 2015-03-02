@@ -1,11 +1,11 @@
 {
     "name": "mozilla-youtube-dl-binding", 
     "license": "MIT", 
-    "author": "Antoniy Chonkov (https://github.com/antoniy/mozilla-youtube-dl-binding)", 
+    "author": "Antoniy Chonkov", 
     "version": "0.1.alpha1", 
-    "id": "jid1-FbM0WeHVXAWQ1A", 
+    "id": "a1", 
     "description": "Watch flash videos from various sites using native player (like mpv) and youtube-dl.",
-    
+    "homepage": "https://github.com/antoniy/mozilla-youtube-dl-binding",
     "icon": "data/icon_button.png",
     
     "preferences": [

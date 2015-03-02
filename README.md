@@ -1,4 +1,4 @@
-# youtube-dl binding firefox browser extensions
+# Natively play video streams in Firefox
 This is firefox browser extension that gives the user the ability to play flash video streams for [multiple](http://rg3.github.io/youtube-dl/supportedsites.html) websites using [youtube-dl](http://youtube-dl.org) and a native media player of choice (which supports youtube-dl of course). The default configuration uses [mpv](http://mpv.io/) media player.
    
 ## Installing

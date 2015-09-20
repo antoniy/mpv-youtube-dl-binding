@@ -9,6 +9,6 @@ This is firefox browser extension that gives the user the ability to play flash 
 
 ### Build it manually
 1. Download the source.
-2. Download de [Add-on SDK](https://addons.mozilla.org/en-US/developers/builder).
-3. Run `cfx xpi` inside the `project` directory.
-4. Open the `mozilla-youtube-dl-binding.xpi` file with Firefox.
+2. Download de [Add-on SDK](https://addons.mozilla.org/en-US/Add-ons/SDK/Tools/jpm#Installation).
+3. Run `jpm xpi` inside the `project` directory.
+4. Open the `mozilla-youtube-dl-binding@jetpack.xpi` file with Firefox.

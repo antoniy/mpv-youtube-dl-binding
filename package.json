@@ -7,6 +7,7 @@
     "description": "Watch flash videos from various sites using native player (like mpv) and youtube-dl.",
     "homepage": "https://github.com/antoniy/mpv-youtube-dl-binding",
     "icon": "data/icon_button.png",
+    "main": "lib/main.js",
     "permissions": {
         "private-browsing": true
     },

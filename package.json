@@ -2,7 +2,7 @@
     "name": "mpv-youtube-dl-binding", 
     "license": "MIT", 
     "author": "Antoniy Chonkov", 
-    "version": "0.1.0-alpha.2",
+    "version": "0.1.0-alpha.3",
     "id": "mpv-youtube-dl-binding@jetpack",
     "description": "Watch flash videos from various sites using native player (like mpv) and youtube-dl.",
     "homepage": "https://github.com/antoniy/mpv-youtube-dl-binding",

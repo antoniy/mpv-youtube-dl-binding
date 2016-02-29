@@ -32,6 +32,13 @@
             "description": "Specify additional parameters to pass the native player when started. Leave empty if none are required. Use %%url%% placeholder to be able to pass video link as a parameter (useful when using custom script to execute additional logic).",
             "type": "string",
             "value": ""
+        },
+        {
+            "name": "altClick",
+            "title": "alt + click",
+            "description": "Launch player for a link on 'alt + click'",
+            "type": "bool",
+            "value": false
         }
     ]
 }

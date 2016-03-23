@@ -1,7 +1,7 @@
 {
-    "name": "mpv-youtube-dl-binding", 
-    "license": "MIT", 
-    "author": "Antoniy Chonkov", 
+    "name": "mpv-youtube-dl-binding",
+    "license": "MIT",
+    "author": "Antoniy Chonkov",
     "version": "0.1.0-alpha.3",
     "id": "jid1-6NrUw49Z9jFVxg@jetpack",
     "description": "Watch flash videos from various sites using native player (like mpv) and youtube-dl.",
@@ -34,11 +34,18 @@
             "value": ""
         },
         {
+            "name": "ytStartPlAtIndex",
+            "title": "Start playlist playback from the selected video",
+            "description": "While in Youtube playlist, context menu command will play the playlist starting from the selected video.",
+            "type": "bool",
+            "value": false
+        },
+        {
             "name": "altClick",
             "title": "alt + click",
             "description": "Launch player for a link on 'alt + click'",
             "type": "bool",
             "value": false
-        }
+        },
     ]
 }

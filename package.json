@@ -39,6 +39,13 @@
             "description": "While in Youtube playlist, context menu command will play the playlist starting from the selected video.",
             "type": "bool",
             "value": false
-        }
+        },
+        {
+            "name": "altClick",
+            "title": "alt + click",
+            "description": "Launch player for a link on 'alt + click'",
+            "type": "bool",
+            "value": false
+        },
     ]
 }
